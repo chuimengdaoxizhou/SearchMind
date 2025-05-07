@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package vertor;
+
+service DataManagement {
+  rpc getDatabyPrompt(Request) returns (Response);
+  rpc updatabypath(Request) returns (Response);
+}
+
+message Request {
+  string prompt = 1;
+}
+
+message Response {
+  string answer = 1;
+}

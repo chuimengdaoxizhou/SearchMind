@@ -1,0 +1,512 @@
+2025-04-16 17:06:00,074 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:06:00,218 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:06:00,218 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:06:00,219 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:06:01,839 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:06:02,146 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:06:02,454 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:06:02,761 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:06:03,069 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:06:03,478 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:06:03,785 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:06:04,400 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:06:05,014 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:06:05,321 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:06:05,325 - DEBUG - Kafka init
+2025-04-16 17:06:05,326 - DEBUG - Kafka consume_message start...
+2025-04-16 17:08:07,422 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:08:07,568 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:08:07,568 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:08:07,569 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:08:09,226 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:08:09,538 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:08:09,845 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:08:10,153 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:08:10,461 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:08:10,767 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:08:11,075 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:08:11,691 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:08:12,100 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:08:12,412 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:08:12,415 - DEBUG - Kafka init
+2025-04-16 17:08:12,417 - DEBUG - Kafka consume_message start...
+2025-04-16 17:13:59,638 - DEBUG - Kafka consume_message end...
+2025-04-16 17:14:11,002 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:14:11,146 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:14:11,146 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:14:11,147 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:14:12,961 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:14:13,370 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:14:13,779 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:14:14,086 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:14:14,496 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:14:14,804 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:14:15,214 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:14:15,828 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:14:16,442 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:14:16,954 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:22:13,467 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:22:13,621 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:22:13,621 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:22:13,622 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:22:15,261 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:22:15,670 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:22:15,978 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:22:16,284 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:22:16,899 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:22:17,201 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:22:17,513 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:22:18,128 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:22:18,537 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:22:18,844 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:22:18,848 - DEBUG - Kafka init
+2025-04-16 17:22:44,468 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:22:44,612 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:22:44,613 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:22:44,614 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:22:45,570 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:22:45,877 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:22:46,184 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:22:46,491 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:22:46,799 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:22:47,105 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:22:47,413 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:22:48,233 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:22:48,642 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:22:48,954 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:22:48,958 - DEBUG - Kafka init
+2025-04-16 17:22:48,960 - DEBUG - Kafka consume_message start...
+2025-04-16 17:23:32,972 - DEBUG - Kafka consume_message end...
+2025-04-16 17:24:08,482 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:24:08,625 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:24:08,625 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:24:08,626 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:24:10,350 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:24:10,766 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:24:11,072 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:24:11,381 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:24:11,687 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:24:12,095 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:24:12,397 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:24:13,198 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:24:13,632 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:24:14,037 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:24:14,040 - DEBUG - Kafka init
+2025-04-16 17:24:14,042 - DEBUG - Kafka consume_message start...
+2025-04-16 17:32:01,119 - DEBUG - Kafka consume_message end...
+2025-04-16 17:32:11,549 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:32:11,694 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:32:11,694 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:32:11,695 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:32:13,354 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:32:13,665 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:32:14,178 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:32:14,484 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:32:14,791 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:32:15,097 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:32:15,405 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:32:16,022 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:32:16,532 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:32:16,842 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:32:16,845 - DEBUG - Kafka init
+2025-04-16 17:32:16,846 - DEBUG - Kafka consume_message start...
+2025-04-16 17:35:34,887 - DEBUG - Kafka consume_message end...
+2025-04-16 17:35:43,189 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:35:43,333 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:35:43,334 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:35:43,335 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:35:45,109 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:35:45,419 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:35:46,342 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:35:46,648 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:35:46,955 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:35:47,262 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:35:47,878 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:35:48,593 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:35:49,197 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:35:49,723 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:35:49,726 - DEBUG - Kafka init
+2025-04-16 17:35:49,728 - DEBUG - Kafka consume_message start...
+2025-04-16 17:37:01,110 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:37:01,256 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:37:01,256 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:37:01,257 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:37:03,343 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:37:03,957 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:37:04,469 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:37:04,776 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:37:05,186 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:37:05,493 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:37:05,801 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:37:06,415 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:37:06,824 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:37:07,135 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:37:07,138 - DEBUG - Kafka init
+2025-04-16 17:37:07,140 - DEBUG - Kafka consume_message start...
+2025-04-16 17:38:14,234 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 17:38:14,380 - INFO - Use pytorch device_name: cpu
+2025-04-16 17:38:14,380 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 17:38:14,381 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 17:38:16,040 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:38:16,351 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 17:38:16,658 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 17:38:16,965 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 17:38:17,273 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 17:38:17,579 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 17:38:17,887 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 17:38:18,502 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 17:38:19,014 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 17:38:29,147 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 17:38:29,150 - DEBUG - Kafka init
+2025-04-16 17:38:29,152 - DEBUG - Kafka consume_message start...
+2025-04-16 17:48:59,615 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 17:49:25,104 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:05:08,224 - DEBUG - Kafka consume_message end...
+2025-04-16 18:05:53,663 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:05:54,072 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:05:54,072 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:05:54,073 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:05:55,700 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:05:56,212 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:05:56,621 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:05:57,030 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:05:57,440 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:05:57,849 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:05:58,258 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:05:59,179 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:05:59,561 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:06:00,203 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:06:00,206 - DEBUG - Kafka init
+2025-04-16 18:06:32,592 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:06:32,752 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:06:32,752 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:06:32,753 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:06:33,648 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:06:33,984 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:06:34,394 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:06:35,008 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:06:35,418 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:06:35,828 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:06:36,237 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:06:36,750 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:06:37,128 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:06:37,465 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:06:37,470 - DEBUG - Kafka init
+2025-04-16 18:07:53,131 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:07:53,294 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:07:53,294 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:07:53,296 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:07:55,543 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:07:55,823 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:07:56,289 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:07:56,567 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:07:56,858 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:07:57,148 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:07:57,424 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:07:57,830 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:07:58,235 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:07:58,572 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:07:58,575 - DEBUG - Kafka init
+2025-04-16 18:07:58,577 - INFO - Starting Kafka and RAG processes...
+2025-04-16 18:07:58,608 - DEBUG - Kafka consume_message start...
+2025-04-16 18:09:36,484 - INFO - Terminating processes...
+2025-04-16 18:10:16,719 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:10:16,872 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:10:16,872 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:10:16,873 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:10:18,749 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:10:19,087 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:10:19,495 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:10:19,906 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:10:20,389 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:10:20,900 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:10:21,339 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:10:21,851 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:10:22,261 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:10:22,582 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:10:22,586 - DEBUG - Kafka init
+2025-04-16 18:10:22,587 - INFO - Starting Kafka and RAG processes...
+2025-04-16 18:10:25,613 - DEBUG - Kafka consume_message start...
+2025-04-16 18:12:15,732 - INFO - Terminating processes...
+2025-04-16 18:12:25,573 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:12:25,722 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:12:25,722 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:12:25,723 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:12:28,424 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:12:28,837 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:12:29,247 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:12:29,656 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:12:30,066 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:12:30,475 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:12:30,885 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:12:31,602 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:12:32,012 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:12:32,425 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:12:32,429 - DEBUG - Kafka init
+2025-04-16 18:12:32,431 - DEBUG - Kafka consume_message start...
+2025-04-16 18:12:41,566 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:12:49,655 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:12:57,691 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:15:40,717 - DEBUG - Kafka consume_message end...
+2025-04-16 18:15:57,999 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:15:58,142 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:15:58,142 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:15:58,143 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:16:00,059 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:16:00,396 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:16:00,806 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:16:01,216 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:16:01,624 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:16:02,136 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:16:02,546 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:16:03,218 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:16:03,674 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-16 18:16:04,083 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-16 18:16:04,087 - DEBUG - Kafka init
+2025-04-16 18:16:04,089 - DEBUG - Kafka consume_message start...
+2025-04-16 18:16:28,132 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:18:52,440 - INFO - PyTorch version 2.6.0 available.
+2025-04-16 18:18:52,587 - INFO - Use pytorch device_name: cpu
+2025-04-16 18:18:52,587 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-16 18:18:52,588 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-16 18:18:54,364 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:18:54,694 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-16 18:18:55,104 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-16 18:18:55,718 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-16 18:18:56,128 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-16 18:18:56,537 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-16 18:18:57,049 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-16 18:18:57,768 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-16 18:18:58,265 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6788
+2025-04-16 18:18:59,375 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6788
+2025-04-16 18:18:59,379 - DEBUG - Kafka init
+2025-04-16 18:18:59,381 - DEBUG - Kafka consume_message start...
+2025-04-16 18:20:25,488 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-16 18:20:47,524 - CRITICAL - chenyun上传的/home/chenyun/下载/train.json存储成功
+2025-04-17 15:07:01,070 - INFO - PyTorch version 2.6.0 available.
+2025-04-17 15:07:01,726 - INFO - Use pytorch device_name: cpu
+2025-04-17 15:07:01,726 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-17 15:07:01,727 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-17 15:07:03,528 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-17 15:07:03,941 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-17 15:07:04,250 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-17 15:07:04,659 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-17 15:07:04,966 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-17 15:07:05,371 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-17 15:07:05,683 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-17 15:07:07,219 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-17 15:07:07,731 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-17 15:07:08,448 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-17 15:07:08,451 - DEBUG - Kafka init
+2025-04-17 15:07:08,542 - DEBUG - Kafka consume_message start...
+2025-04-30 15:18:48,540 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:18:49,394 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:18:49,395 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:18:49,398 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:18:59,425 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:19:09,438 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:19:19,458 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:19:29,482 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:19:39,499 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2025-04-30 15:19:49,520 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2025-04-30 15:20:00,524 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2025-04-30 15:20:10,706 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2025-04-30 15:22:26,981 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2025-04-30 15:24:53,910 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:24:54,051 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:24:54,051 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:24:54,052 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:25:04,431 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:25:14,675 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:25:24,910 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:25:34,923 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:25:44,937 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2025-04-30 15:25:54,950 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2025-04-30 15:26:27,258 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:26:27,407 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:26:27,407 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:26:27,409 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:26:38,228 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:26:48,473 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:26:58,487 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:27:08,492 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:30:38,502 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:30:38,646 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:30:38,646 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:30:38,647 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:30:48,924 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:30:59,164 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:31:09,178 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:31:19,189 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:31:29,198 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2025-04-30 15:31:39,212 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2025-04-30 15:31:49,391 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2025-04-30 15:31:59,462 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2025-04-30 15:35:27,718 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:35:28,290 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:35:28,290 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:35:28,293 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:35:38,549 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:38:53,209 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:38:53,359 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:38:53,359 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:38:53,360 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:38:53,548 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:38:53,749 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:38:53,958 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:38:54,159 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:38:54,364 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2025-04-30 15:38:54,569 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2025-04-30 15:38:55,121 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2025-04-30 15:38:55,327 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2025-04-30 15:38:55,597 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2025-04-30 15:39:46,002 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 15:39:46,147 - INFO - Use pytorch device_name: cpu
+2025-04-30 15:39:46,147 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 15:39:46,148 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 15:39:46,595 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 15:39:46,799 - DEBUG - Starting new HTTPS connection (3): huggingface.co:443
+2025-04-30 15:39:47,000 - DEBUG - Starting new HTTPS connection (4): huggingface.co:443
+2025-04-30 15:39:47,205 - DEBUG - Starting new HTTPS connection (5): huggingface.co:443
+2025-04-30 15:39:47,301 - DEBUG - Starting new HTTPS connection (6): huggingface.co:443
+2025-04-30 15:39:47,414 - DEBUG - Starting new HTTPS connection (7): huggingface.co:443
+2025-04-30 15:39:47,969 - DEBUG - Starting new HTTPS connection (8): huggingface.co:443
+2025-04-30 15:39:48,288 - DEBUG - Starting new HTTPS connection (9): huggingface.co:443
+2025-04-30 15:39:48,643 - DEBUG - Starting new HTTPS connection (10): huggingface.co:443
+2025-04-30 21:00:39,633 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:00:40,124 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:00:40,124 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:00:40,126 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:00:40,946 - WARNING - No sentence-transformers model found with name sentence-transformers/all-mpnet-base-v2. Creating a new one with mean pooling.
+2025-04-30 21:00:40,947 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 21:01:08,708 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:01:08,853 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:01:08,853 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:01:08,854 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:01:09,612 - WARNING - No sentence-transformers model found with name sentence-transformers/all-mpnet-base-v2. Creating a new one with mean pooling.
+2025-04-30 21:01:09,613 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 21:04:24,933 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:04:25,077 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:04:25,077 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:04:25,079 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:04:27,144 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:04:27,147 - DEBUG - Attempting to acquire lock 127047947520464 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2025-04-30 21:04:27,147 - DEBUG - Lock 127047947520464 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2025-04-30 21:04:27,557 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 349
+2025-04-30 21:04:27,559 - DEBUG - Attempting to release lock 127047947520464 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2025-04-30 21:04:27,559 - DEBUG - Lock 127047947520464 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/952a9b81c0bfd99800fabf352f69c7ccd46c5e43.lock
+2025-04-30 21:04:28,069 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-30 21:04:28,070 - DEBUG - Attempting to acquire lock 127047936406480 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2025-04-30 21:04:28,070 - DEBUG - Lock 127047936406480 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2025-04-30 21:04:28,581 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 116
+2025-04-30 21:04:28,582 - DEBUG - Attempting to release lock 127047936406480 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2025-04-30 21:04:28,582 - DEBUG - Lock 127047936406480 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/fd1b291129c607e5d49799f87cb219b27f98acdf.lock
+2025-04-30 21:04:28,993 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-30 21:04:28,994 - DEBUG - Attempting to acquire lock 127047966887120 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1112f497338a70c395072396c53b702fbbf98add.lock
+2025-04-30 21:04:28,994 - DEBUG - Lock 127047966887120 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1112f497338a70c395072396c53b702fbbf98add.lock
+2025-04-30 21:04:29,460 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 10415
+2025-04-30 21:04:29,462 - DEBUG - Attempting to release lock 127047966887120 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1112f497338a70c395072396c53b702fbbf98add.lock
+2025-04-30 21:04:29,462 - DEBUG - Lock 127047966887120 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1112f497338a70c395072396c53b702fbbf98add.lock
+2025-04-30 21:04:29,912 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:04:30,322 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-30 21:04:30,323 - DEBUG - Attempting to acquire lock 127047919675792 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4eb670bb4e7f34e9031acec2b86d39e5c921198e.lock
+2025-04-30 21:04:30,323 - DEBUG - Lock 127047919675792 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4eb670bb4e7f34e9031acec2b86d39e5c921198e.lock
+2025-04-30 21:04:30,766 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 53
+2025-04-30 21:04:30,767 - DEBUG - Attempting to release lock 127047919675792 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4eb670bb4e7f34e9031acec2b86d39e5c921198e.lock
+2025-04-30 21:04:30,767 - DEBUG - Lock 127047919675792 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4eb670bb4e7f34e9031acec2b86d39e5c921198e.lock
+2025-04-30 21:04:31,239 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-30 21:04:31,649 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-30 21:04:31,650 - DEBUG - Attempting to acquire lock 127047940524432 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2025-04-30 21:04:31,650 - DEBUG - Lock 127047940524432 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2025-04-30 21:04:32,161 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 571
+2025-04-30 21:04:32,162 - DEBUG - Attempting to release lock 127047940524432 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2025-04-30 21:04:32,162 - DEBUG - Lock 127047940524432 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/b9fd4298819da011007a6a4ceb728c860914fc88.lock
+2025-04-30 21:04:32,779 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/model.safetensors HTTP/1.1" 302 0
+2025-04-30 21:04:32,781 - DEBUG - Attempting to acquire lock 127047914550672 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/78c0197b6159d92658e319bc1d72e4c73a9a03dd03815e70e555c5ef05615658.lock
+2025-04-30 21:04:32,781 - DEBUG - Lock 127047914550672 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/78c0197b6159d92658e319bc1d72e4c73a9a03dd03815e70e555c5ef05615658.lock
+2025-04-30 21:04:32,783 - DEBUG - Starting new HTTPS connection (1): cas-bridge.xethub.hf.co:443
+2025-04-30 21:04:33,906 - DEBUG - https://cas-bridge.xethub.hf.co:443 "GET /xet-bridge-us/621ffdc136468d709f180297/86aa07ab23737b0c4ed67e76a42b0112f51910d87fba18c55683b45006289d07?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250430%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250430T124952Z&X-Amz-Expires=3600&X-Amz-Signature=d35ded83ee65148860cd17973bda3b93cca0a1228e10470474e142e0d1e6d217&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&x-id=GetObject&Expires=1746020992&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NjAyMDk5Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82MjFmZmRjMTM2NDY4ZDcwOWYxODAyOTcvODZhYTA3YWIyMzczN2IwYzRlZDY3ZTc2YTQyYjAxMTJmNTE5MTBkODdmYmExOGM1NTY4M2I0NTAwNjI4OWQwNyoifV19&Signature=YU87Iwev8HBXwn3MuWE-pzJxGibUstQwS1KRdEbBtikJn7hU84sIKRVF928KkLYJs4J1nDP3wZGzBf1aadjAf3kqBJasPaIycYwpcSxoadMql1K7RHo4fJJ-q5cBvGwsHAt7CvMLWKSYobBkJWhREwRoGst4cuVaZGrIOPzdnXsj4Lg2RnRF4HD7WIeoov9wcaZ8xpzOf~iw0GAIrkQxusEkQDDMdrpCXYkQJElP1V4g0LZdYfqkz~gbh3wY~kNN2FWLtjXcgdSttMqI~0xZjc33-Kk9obCXO5SuO1fOvusjTctuP0AciqxKIVZBTICXWAxjlxQU1pnxuUuWfdSi3w__&Key-Pair-Id=K2L8F4GPSG1IFC HTTP/1.1" 200 437971872
+2025-04-30 21:05:47,798 - DEBUG - Attempting to release lock 127047914550672 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/78c0197b6159d92658e319bc1d72e4c73a9a03dd03815e70e555c5ef05615658.lock
+2025-04-30 21:05:47,798 - DEBUG - Lock 127047914550672 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/78c0197b6159d92658e319bc1d72e4c73a9a03dd03815e70e555c5ef05615658.lock
+2025-04-30 21:05:48,248 - DEBUG - Resetting dropped connection: huggingface.co
+2025-04-30 21:05:49,441 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-30 21:05:49,442 - DEBUG - Attempting to acquire lock 127047904452624 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2025-04-30 21:05:49,443 - DEBUG - Lock 127047904452624 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2025-04-30 21:05:49,892 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 363
+2025-04-30 21:05:49,893 - DEBUG - Attempting to release lock 127047904452624 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2025-04-30 21:05:49,894 - DEBUG - Lock 127047904452624 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/20ae1276042f43d1c80f4f7b7f084a8704592c1d.lock
+2025-04-30 21:05:50,355 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/vocab.txt HTTP/1.1" 200 0
+2025-04-30 21:05:50,356 - DEBUG - Attempting to acquire lock 127047920562640 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2025-04-30 21:05:50,356 - DEBUG - Lock 127047920562640 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2025-04-30 21:05:50,854 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/vocab.txt HTTP/1.1" 200 231536
+2025-04-30 21:05:51,631 - DEBUG - Attempting to release lock 127047920562640 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2025-04-30 21:05:51,631 - DEBUG - Lock 127047920562640 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/1c51ab79a2298a340952d3e6012042a9c84bbe4d.lock
+2025-04-30 21:05:52,140 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer.json HTTP/1.1" 200 0
+2025-04-30 21:05:52,140 - DEBUG - Attempting to acquire lock 127047935723088 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/7c8e194053bc80e27e19bb2125469e4f289ab2b3.lock
+2025-04-30 21:05:52,140 - DEBUG - Lock 127047935723088 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/7c8e194053bc80e27e19bb2125469e4f289ab2b3.lock
+2025-04-30 21:05:52,655 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer.json HTTP/1.1" 200 466021
+2025-04-30 21:05:53,212 - DEBUG - Attempting to release lock 127047935723088 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/7c8e194053bc80e27e19bb2125469e4f289ab2b3.lock
+2025-04-30 21:05:53,212 - DEBUG - Lock 127047935723088 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/7c8e194053bc80e27e19bb2125469e4f289ab2b3.lock
+2025-04-30 21:05:53,662 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/added_tokens.json HTTP/1.1" 404 0
+2025-04-30 21:05:54,120 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/special_tokens_map.json HTTP/1.1" 200 0
+2025-04-30 21:05:54,121 - DEBUG - Attempting to acquire lock 127047920562640 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2025-04-30 21:05:54,121 - DEBUG - Lock 127047920562640 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2025-04-30 21:05:54,592 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/main/special_tokens_map.json HTTP/1.1" 200 239
+2025-04-30 21:05:54,594 - DEBUG - Attempting to release lock 127047920562640 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2025-04-30 21:05:54,594 - DEBUG - Lock 127047920562640 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/378d4fa393d5eaccf69c437a20f1cda6ac65c14d.lock
+2025-04-30 21:05:55,102 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-30 21:05:55,106 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:10:02,894 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:10:03,038 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:10:03,038 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:10:03,039 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:10:05,204 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:10:05,628 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-30 21:10:06,227 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-30 21:10:06,709 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:10:07,250 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-30 21:10:07,763 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-30 21:10:08,275 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-30 21:10:08,891 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-30 21:10:09,408 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-30 21:10:09,412 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:10:11,756 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/12e86a3c702fc3c50205a8db88f0ec7c0b6b94a0/1_Pooling/config.json HTTP/1.1" 200 0
+2025-04-30 21:10:11,757 - DEBUG - Attempting to acquire lock 140373628316880 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4e09f293dfe90bba49f87cfe7996271f07be2666.lock
+2025-04-30 21:10:11,757 - DEBUG - Lock 140373628316880 acquired on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4e09f293dfe90bba49f87cfe7996271f07be2666.lock
+2025-04-30 21:10:12,689 - DEBUG - https://huggingface.co:443 "GET /sentence-transformers/all-mpnet-base-v2/resolve/12e86a3c702fc3c50205a8db88f0ec7c0b6b94a0/1_Pooling/config.json HTTP/1.1" 200 190
+2025-04-30 21:10:12,691 - DEBUG - Attempting to release lock 140373628316880 on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4e09f293dfe90bba49f87cfe7996271f07be2666.lock
+2025-04-30 21:10:12,691 - DEBUG - Lock 140373628316880 released on /home/chenyun/program/python/vdatabase/models/sentence_model/.locks/models--sentence-transformers--all-mpnet-base-v2/4e09f293dfe90bba49f87cfe7996271f07be2666.lock
+2025-04-30 21:10:13,192 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-30 21:24:26,754 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:24:29,182 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:24:29,183 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:24:29,185 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:24:29,699 - WARNING - No sentence-transformers model found with name sentence-transformers/all-mpnet-base-v2. Creating a new one with mean pooling.
+2025-04-30 21:24:29,700 - DEBUG - Starting new HTTPS connection (2): huggingface.co:443
+2025-04-30 21:24:30,606 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-30 21:24:31,015 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-30 21:24:34,397 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-30 21:24:35,122 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-30 21:28:33,273 - INFO - PyTorch version 2.6.0 available.
+2025-04-30 21:28:33,708 - INFO - Use pytorch device_name: cpu
+2025-04-30 21:28:33,708 - INFO - Load pretrained SentenceTransformer: sentence-transformers/all-mpnet-base-v2
+2025-04-30 21:28:33,709 - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2025-04-30 21:28:41,510 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:28:42,481 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config_sentence_transformers.json HTTP/1.1" 200 0
+2025-04-30 21:28:43,652 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/README.md HTTP/1.1" 200 0
+2025-04-30 21:28:44,759 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/modules.json HTTP/1.1" 200 0
+2025-04-30 21:28:50,410 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/sentence_bert_config.json HTTP/1.1" 200 0
+2025-04-30 21:28:51,014 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/adapter_config.json HTTP/1.1" 404 0
+2025-04-30 21:28:52,040 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/config.json HTTP/1.1" 200 0
+2025-04-30 21:28:53,177 - DEBUG - https://huggingface.co:443 "HEAD /sentence-transformers/all-mpnet-base-v2/resolve/main/tokenizer_config.json HTTP/1.1" 200 0
+2025-04-30 21:28:53,862 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2/revision/main HTTP/1.1" 200 6807
+2025-04-30 21:28:54,489 - DEBUG - https://huggingface.co:443 "GET /api/models/sentence-transformers/all-mpnet-base-v2 HTTP/1.1" 200 6807
+2025-04-30 21:38:48,825 - ERROR - Exception calling application: too many values to unpack (expected 2)
+Traceback (most recent call last):
+  File "/home/chenyun/program/python/envs/neumai/lib/python3.11/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/chenyun/program/python/vdatabase/allgrpc/server.py", line 29, in updatabypath
+    data,filetype = self.file.readFile(filepath)
+    ^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
